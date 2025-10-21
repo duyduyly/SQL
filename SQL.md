@@ -8,6 +8,7 @@
   - [*When use NoSQL?*](#-when-use-nosql-need-read-more)
 - [**In reality, what use SQL for?**](#in-reality-what-use-sql-for)
 - [**SQL Commands**](#sql-commands)
+- [**Setup Mysql On macOS**](#setup-mysql-on-macos)
 
 
 ## what is SQL?
@@ -118,3 +119,6 @@
 
 ----------------
 <br/>
+
+## Setup Mysql On macOS
+- [Setup Mysql.md](lesson/Setup%20Mysql.md)
