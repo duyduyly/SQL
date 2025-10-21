@@ -8,9 +8,6 @@
   - [*When use NoSQL?*](#-when-use-nosql-need-read-more)
 - [**In reality, what use SQL for?**](#in-reality-what-use-sql-for)
 - [**SQL Commands**](#sql-commands)
-- [**DDL (Data Definition Language) and DML (Data Manipulation Language) Commands**](#ddl-data-definition-language-and-dml-data-manipulation-language-commands)
-  - [*DDL (Data Definition Language)*](#ddl-data-definition-language)
-  - [*DML (Data Manipulation Language)*](#dml-data-manipulation-language)
 
 
 ## what is SQL?
