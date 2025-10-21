@@ -7,6 +7,7 @@
   - [*When use SQL?*](#-when-use-sql)
   - [*When use NoSQL?*](#-when-use-nosql-need-read-more)
 - [**In reality, what use SQL for?**](#in-reality-what-use-sql-for)
+- [**SQL Commands**](#sql-commands)
 - [**DDL (Data Definition Language) and DML (Data Manipulation Language) Commands**](#ddl-data-definition-language-and-dml-data-manipulation-language-commands)
   - [*DDL (Data Definition Language)*](#ddl-data-definition-language)
   - [*DML (Data Manipulation Language)*](#dml-data-manipulation-language)
@@ -101,21 +102,22 @@
 ----------------
 <br/>
 
-## DDL (Data Definition Language) and DML (Data Manipulation Language) Commands
-### DDL (Data Definition Language)
-- DDL is used to define and manage the structure of the database — like creating tables, modifying them, or deleting them.
--  Common Keywords:
-   - `CREATE TABLE` – to make a new table
-   - `ALTER TABLE` – to change an existing table (add/remove columns)
-   - `DROP TABLE` – to delete a table
-   - `CREATE INDEX` – to speed up searches on a column
-   - `DROP INDEX` – to remove an index
 
-#
-### DML (Data Manipulation Language)
-- DML is used to work with the data inside those tables — inserting, reading, updating, or deleting rows.
-- Common Keywords:
-   - `SELECT` – to read data from a table
-   - `INSERT INTO` – to add new rows
-   - `UPDATE` – to change existing rows
-   - `DELETE` – to remove rows
+## SQL Commands
+- `SQL commands` are fundamental building blocks used to perform given operations on database. The operations include queries of data. creating a table, adding data to tables, dropping the table, modifying the table and set permission for users.
+
+![SQL Commands.png](resources/SQL%20Commands.png)
+
+- ### **[Data Definition Language (DDL).md](lesson/Data%20Definition%20Language%20%28DDL%29.md)**
+- **Data Manipulation Language (DML)**
+- Data Control Language(DCL)
+- Transaction Control Language(TCL)
+- **Data Query Language (DQL)**
+
+<br/>
+
+- Sources can read more here!:  
+  - https://www.guru99.com/sql-commands-dbms-query.html
+
+----------------
+<br/>
