@@ -19,7 +19,6 @@
 - [**Truncate**](#4-truncate--remove-all-data-quickly)
 - [**Rename**](#5-rename--rename-database-objects)
 
-
 #
 ### 🧩 1. `CREATE` — Create Database Objects
 - You use CREATE to define `new objects` in your database.
@@ -133,3 +132,6 @@ ALTER TABLE staff RENAME COLUMN first_name TO fname;
 - Most DDL commands are auto-committed — you can’t undo them with ROLLBACK.
 - You need appropriate privileges to run DDL commands (e.g., CREATE, ALTER, DROP).
 - DDL affects the structure/schema, while DML affects the data.
+
+### Table Definition
+Read Here: [Table Define.md](Table%20Define.md)

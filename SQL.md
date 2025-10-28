@@ -107,6 +107,8 @@
 ![SQL Commands.png](resources/SQL%20Commands.png)
 
 - ### **[Data Definition Language (DDL).md](lesson/Data%20Definition%20Language%20%28DDL%29.md)**
+  -  #### [Table Define.md](lesson/Table%20Define.md)
+  
 - **Data Manipulation Language (DML)**
 - Data Control Language(DCL)
 - Transaction Control Language(TCL)
